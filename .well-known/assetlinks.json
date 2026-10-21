@@ -2,6 +2,13 @@
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
     "namespace": "android_app",
+    "package_name": "com.opensquad.rainykonbini",
+    "sha256_cert_fingerprints": ["90:C5:18:3C:EC:30:98:4F:88:5C:6E:BF:15:79:42:B3:D1:DF:8A:E7:02:B2:07:35:6E:54:06:47:27:4C:27:DE"]
+  }
+},{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
     "package_name": "com.opensquad.webxrquest3demo",
     "sha256_cert_fingerprints": ["90:C5:18:3C:EC:30:98:4F:88:5C:6E:BF:15:79:42:B3:D1:DF:8A:E7:02:B2:07:35:6E:54:06:47:27:4C:27:DE"]
   }
